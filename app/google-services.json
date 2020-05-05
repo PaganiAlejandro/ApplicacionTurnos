@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215150866862",
+    "firebase_url": "https://appturnos-49170.firebaseio.com",
+    "project_id": "appturnos-49170",
+    "storage_bucket": "appturnos-49170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215150866862:android:2ff69e24c0721e6955983f",
+        "android_client_info": {
+          "package_name": "com.aplicacion.turnos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215150866862-4khn40tva4o97nlbrbk8j4qtvcpmmrht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplicacion.turnos",
+            "certificate_hash": "d7960cbe6299d53895fa30bc6e11920261c2f552"
+          }
+        },
+        {
+          "client_id": "215150866862-5rncv31mborifc5548e5mttr2t9sen9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCra2uR8V3cdcwNF6oKV7C5pXsti98dJ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215150866862-5rncv31mborifc5548e5mttr2t9sen9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
