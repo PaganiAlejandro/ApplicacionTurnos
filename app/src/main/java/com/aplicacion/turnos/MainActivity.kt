@@ -24,3 +24,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+//TODO Link tutorial para firebase: https://www.youtube.com/watch?v=b841-mekN28&list=PL6TCTYi3NaCtFH1HI5GXVKs6cBGDLa5aS&index=4&t=0s
